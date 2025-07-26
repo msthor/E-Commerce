@@ -1,5 +1,4 @@
 const mongoose = require('mongoose');
-
 const app = require('./app');
 const dotenv = require('dotenv');
 const connectDatabase = require('./config/database');
